@@ -21,6 +21,6 @@ A viewer window opens and the G1 tosses and catches the apple. Pressing Backspac
 - g1.xml and assets/: Unitree G1 robot model
 
 ## Credits
-- Simulation by <your friend's name> and <your name>
+- Simulation by Aadi and Krishna
 - Robot model: Unitree G1 from MuJoCo Menagerie
   (https://github.com/google-deepmind/mujoco_menagerie), see LICENSE
