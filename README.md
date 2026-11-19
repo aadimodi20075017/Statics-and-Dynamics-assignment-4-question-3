@@ -8,11 +8,12 @@ Made for the Statics and Dynamics course, Assignment 4, Question 3.
 - mujoco and numpy
 
 ## Run
+```
 pip install mujoco numpy
 python throw.py
+```
 
-A viewer window opens and the G1 tosses and catches the apple.
-Pressing Backspace in the viewer resets the simulation.
+A viewer window opens and the G1 tosses and catches the apple. Pressing Backspace in the viewer resets the simulation.
 
 ## Files
 - throw.py: controls the arms and drives the toss and catch
